@@ -9,8 +9,17 @@ CS10 Assignment
 
 ---
 
-
 ### To Do List
+
+- [ ] 
+
+- [ ]
+
+- [ ]
+
+- [ ]
 
 
 ---
+
+## Who Am I
