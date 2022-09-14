@@ -28,5 +28,3 @@ CS10 Assignment
 
 Hello. My name is Daniel. And I attend Queen Elizabeth High School. My interests are coding, building hardware, sports and travelling.
 
-
----
