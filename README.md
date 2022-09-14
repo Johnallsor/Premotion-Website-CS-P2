@@ -5,7 +5,7 @@ CS10 Assignment
 
 - [ ] This is a check box
 - [x] This is a checked box
--  [x] <del> this is a checked box </del>
+- [x] <del> this is a checked box </del>
 
 ---
 
@@ -23,3 +23,5 @@ CS10 Assignment
 ---
 
 ## Who Am I
+
+Hello. My name is Daniel. 
