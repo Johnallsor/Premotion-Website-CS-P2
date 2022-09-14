@@ -24,4 +24,4 @@ CS10 Assignment
 
 ## Who Am I
 
-Hello. My name is Daniel. 
+Hello. My name is Daniel. And I attend Queen Elizabeth High School. My interests are coding, building hardware, sports and travelling.
