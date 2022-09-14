@@ -11,11 +11,11 @@ CS10 Assignment
 
 ### To Do List
 
-- [ ] Finish up the Who Am I 
+- [ ] Finish up the Who Am I page.
 
-- [ ]
+- [ ] change Read Me file name.
 
-- [ ]
+- [ ] 
 
 - [ ]
 
@@ -27,5 +27,6 @@ CS10 Assignment
 ## Who Am I
 
 Hello. My name is Daniel. And I attend Queen Elizabeth High School. My interests are coding, building hardware, sports and travelling.
+
 
 ---
