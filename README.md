@@ -11,7 +11,7 @@ CS10 Assignment
 
 ### To Do List
 
-- [ ] 
+- [ ] Finish up the Who Am I 
 
 - [ ]
 
@@ -19,6 +19,8 @@ CS10 Assignment
 
 - [ ]
 
+
+---
 
 ---
 
