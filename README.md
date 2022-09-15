@@ -18,7 +18,7 @@ CS10 Assignment
 - [ ] Add Image on page
 
 - [ ] 
-( ) d
+
 
 ---
 
