@@ -17,7 +17,7 @@ CS10 Assignment
 
 - [ ] Add Image on page.
 
-- [ ] Continue adding all my ideas into the repository. 
+- [ ] Begin adding all my ideas into the repository. 
 
 
 ---
