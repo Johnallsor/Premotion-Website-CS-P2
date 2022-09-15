@@ -15,9 +15,9 @@ CS10 Assignment
 
 - [ ] change Read Me file name.
 
-- [ ] Add Image on page
+- [ ] Add Image on page.
 
-- [ ] 
+- [ ] Continue adding all my ideas into the repository. 
 
 
 ---
