@@ -15,7 +15,7 @@ CS10 Assignment
 
 - [ ] change Read Me file name.
 
-- [ ] Add Image in Who Am I page
+- [ ] Add Image on page
 
 - [ ] 
 
