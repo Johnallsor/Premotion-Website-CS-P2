@@ -11,13 +11,13 @@ CS10 Assignment
 
 ### To Do List
 
-- [ ] Finish up the Who Am I page.
+- [ ] Build up my websiite
 
-- [ ] change Read Me file name.
+- [ ] 
 
-- [ ] Add Image on page.
+- [ ] 
 
-- [ ] Begin adding all my ideas into the repository. 
+- [ ] 
 
 
 ---
