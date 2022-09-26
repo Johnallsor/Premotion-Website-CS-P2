@@ -28,8 +28,5 @@ CS10 Assignment
 
 
 
-
-## Who Am I
-
-Hello. My name is Daniel. And I attend Queen Elizabeth High School. My interests are coding, building hardware, sports and travelling. And I an currently working on developing a website about. Building hardwares. Stuff like how to build a pc, building full body trackers for vr. And how to solder wires together.  
+ 
 
