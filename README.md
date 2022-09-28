@@ -11,7 +11,7 @@ CS10 Assignment
 
 ### To Do List
 
-- [ ] Build up my websiite
+- [ ] Build up my website
 
 - [ ] Add child pages
 
