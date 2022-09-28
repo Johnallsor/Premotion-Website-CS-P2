@@ -13,7 +13,7 @@ CS10 Assignment
 
 - [ ] Build up my websiite
 
-- [ ] 
+- [ ] Add child pages
 
 - [ ] 
 
